@@ -49,6 +49,7 @@ workbox-*.*
 !.env.vault
 
 .velite
+.contentlayer
 
 .cursorrules
 .envrc
